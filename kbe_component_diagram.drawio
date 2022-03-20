@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T14:31:26.488Z" agent="5.0 (X11)" version="17.1.3" etag="YxUJ_aKO9ev3peIdw-O2" type="github"><diagram id="jNqb4VDj_5StwuI-Fb2b">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-20T14:55:46.967Z" agent="5.0 (X11)" etag="TmlWxdQs0h9c3CbHjpT-" version="17.1.3" type="github">
+  <diagram id="jNqb4VDj_5StwuI-Fb2b" name="Page-1">
+    <mxGraphModel dx="1043" dy="2179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGPic2lCmz-j1Cd4sFND-1" target="jGPic2lCmz-j1Cd4sFND-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-1" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-930" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-3" value="&lt;div&gt;Calculator&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-760" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jGPic2lCmz-j1Cd4sFND-4" target="jGPic2lCmz-j1Cd4sFND-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-25" value="DeliveryInfos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jGPic2lCmz-j1Cd4sFND-23">
+          <mxGeometry x="-0.1178" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-4" value="Application Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-540" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-5" value="Storage " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-720" width="270" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-7" value="REST API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="-790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGPic2lCmz-j1Cd4sFND-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="-670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-8" value="&lt;div&gt;REST API&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-9" value="REST API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="-560" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-10" value="REST API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-13" value="ProductDeliveryInfo Table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="-700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-14" value="Products Table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGPic2lCmz-j1Cd4sFND-17" target="jGPic2lCmz-j1Cd4sFND-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-17" value="db service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-680" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGPic2lCmz-j1Cd4sFND-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055.7142857142858" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-27" value="ProductService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-580" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPic2lCmz-j1Cd4sFND-31" value="&lt;div&gt;REST API&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
